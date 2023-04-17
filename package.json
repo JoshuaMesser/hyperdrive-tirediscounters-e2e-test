@@ -1,0 +1,13 @@
+{
+	"name": "hyperdrive-tirediscounters-e2e",
+	"description": "Used to test the form submit between the TireDiscounters and Salesforce form developed by HyperDrive",
+	"authors": "Josh Messer",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "http-server src"
+	},
+	"dependencies": {
+		"http-server": "^14.1.1"
+	}
+}
